@@ -3,6 +3,6 @@ Implementing the game of Nim vs a simple computer AI in Java for CSC 421. This i
 
 Code for my implementation of Nim is based on code implementing Tic Tac Toe that was provided for the course. This code can be found in the original_code folder.
 
-The majority of the code that I wrote can be found in GameNim.java and StateNim.java. 
+The majority of the code that I wrote can be found in GameNim.java and StateNim.java. Game.java, State.java, and Search.java were largely reused from the original code. 
 
 
